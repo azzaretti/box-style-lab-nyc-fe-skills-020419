@@ -63,3 +63,7 @@ h4 {
 img {
   border: 3px solid black;
 }
+
+#1stbox {
+  linear-gradient(#44cc66, black)
+}
