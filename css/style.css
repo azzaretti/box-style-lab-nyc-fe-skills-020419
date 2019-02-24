@@ -31,7 +31,7 @@ h4 {
 }
 
 .indifferent {
-  box-shadow:-1px 1px #black, -2px 2px #black, -3px 3px #black, -4px 4px #black, -5px 5px #;black
+  box-shadow:-1px 1px black, -2px 2px black, -3px 3px black, -4px 4px black, -5px 5px black;
   background-color: #dddd22;
   border: 1px solid #ccc;
 }
