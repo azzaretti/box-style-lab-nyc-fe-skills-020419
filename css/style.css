@@ -71,3 +71,7 @@ img {
 #indifferent {
   background:linear-gradient(#dddd22, black);
 }
+
+#dubious {
+  background:linear-gradient(red, black);
+}
